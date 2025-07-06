@@ -1,0 +1,39 @@
+/* OrderConfirmation.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url(https://img.freepik.com/premium-photo/enhancing-user-consent-information-security-with-visual-tools-practices_1299106-27676.jpg?w=1380) no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 60px 20px;
+    color: #2c3e50;
+}
+
+center {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 40px;
+    border-radius: 12px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: #16a085;
+    font-size: 24px;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #2980b9;
+}
