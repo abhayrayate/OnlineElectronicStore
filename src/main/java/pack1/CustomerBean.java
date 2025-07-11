@@ -61,6 +61,8 @@ public class CustomerBean implements Serializable
 	public void setMobile(String mobile) {
 		this.mobile = mobile;
 	}
+
+	
 	public CustomerBean()
 	{
 		
