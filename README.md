@@ -92,10 +92,5 @@ CSS/
 
 ---
 
-## 📸 Screenshots  
-*(Add screenshots of login pages, admin dashboard, and product management UI here for better presentation)*  
-
----
-
 ## 🙌 Acknowledgements  
 This project was developed as part of hands-on training in **Java, Advanced Java (J2EE), SQL/PLSQL, Spring & Spring Boot** at **Naresh IT**.  
